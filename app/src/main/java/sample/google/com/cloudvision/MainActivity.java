@@ -36,7 +36,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class MainActivity extends AppCompatActivity {
-    private static final String CLOUD_VISION_API_KEY = "API_KEY";
+    private static final String CLOUD_VISION_API_KEY = "YOUR_KEY";
 
     private static final String TAG = MainActivity.class.getSimpleName();
     private static final int PICK_IMAGE_REQUEST = 1;
